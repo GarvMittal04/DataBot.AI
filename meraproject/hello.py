@@ -10,7 +10,7 @@ from langchain.llms import GooglePalm
 from langchain.vectorstores import FAISS
 from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
-os.environ['GOOGLE_API_KEY'] =  'AIzaSyASZ6s2az8sTz-p_NqUc89zFqWeu1pnOhs'
+os.environ['GOOGLE_API_KEY'] =  'YourAPI'
 
 
 
